@@ -1,0 +1,5 @@
+streamlit>=1.43
+anthropic
+edge-tts
+# Дауыспен жазу керек болса, келесі жолдан # белгісін алып таста
+# faster-whisper
